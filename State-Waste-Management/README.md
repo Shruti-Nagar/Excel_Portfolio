@@ -1,7 +1,8 @@
 # Australian State Waste Management - Conditional Formatting & Data Visulaization
 
 ## Summary 
-The data represents waste management statistics for Australian states and territories from 2007 to 2017. It includes waste generation per capita, compound annual growth rates (CAGR), and resource recovery rates. The information shows trends in waste generation and recycling efforts over the specified period, offering insights into waste management practices across different regions of Australia.
+### The data represents waste management statistics for Australian states and territories from 2007 to 2017. It includes waste generation per capita, compound annual growth rates (CAGR), and resource recovery rates. The information shows trends in waste generation and recycling efforts over the specified period, offering insights into waste management practices across different regions of Australia.
+
 ![State Wise Data](https://github.com/Shruti-Nagar/pictures/blob/main/1.jpg)
 
 ### Step 1 - Top/Bottom Rules
@@ -43,4 +44,4 @@ Data < Data Validation
 [Watch the video](https://github.com/Shruti-Nagar/pictures/blob/main/macros.webm)
 
 ![](https://github.com/Shruti-Nagar/pictures/blob/main/9.jpg)
-How Macros in this spreadsheet works - Click on each location circles on map of Australian and Data in all three tables will be highlighed.
+#### How Macros in this spreadsheet works - Click on each location circles on map of Australian States and data in all three tables will be highlighed.

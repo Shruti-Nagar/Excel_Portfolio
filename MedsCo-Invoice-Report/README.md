@@ -5,6 +5,7 @@
 ### It is a Supplier Invoice statement dataset, which requires data cleaning and and additional data columns for analysis
 ![Supplier Invoice Statement](https://github.com/Shruti-Nagar/pictures/blob/main/MedsCo/Supply%20Invoice%20Statement.jpg)
 #
+### Additional columns created using various formulas
 ![](https://github.com/Shruti-Nagar/pictures/blob/main/MedsCo/Invoice%20Statement.jpg)
 #
 ![](https://github.com/Shruti-Nagar/pictures/blob/main/MedsCo/Invoice%20Statement%202.jpg)

@@ -12,7 +12,8 @@
 #
 ### Invoice Report Data Cleaning and Data Wrangling
 ![](https://github.com/Shruti-Nagar/pictures/blob/main/MedsCo/Invoice%20Report%20Dataset.jpg)
-https://github.com/Shruti-Nagar/pictures/blob/main/MedsCo/Invoice%20Report.jpg
+#
+![](https://github.com/Shruti-Nagar/pictures/blob/main/MedsCo/Invoice%20Report.jpg)
 
 #
 ### Slicers used in Invoice Report

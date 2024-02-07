@@ -14,18 +14,22 @@ This dataset is already cleaned. So further steps are:
 
 ### Melbourne Trends
 Query Avg. price of both types of properties for each month for selected year
+Pivot line chart showchasing the trend
 ![](https://github.com/Shruti-Nagar/pictures/blob/main/Melbourne%20Auction/Melbourne%20Trends.jpg)
 
 ### Top Suburbs
 Query Top suburbs with their highest and lowest property prices
+Top 8 suburbs based on selected Year and Type - House or Unit
 ![](https://github.com/Shruti-Nagar/pictures/blob/main/Melbourne%20Auction/Top%20Suburbs.jpg)
 
 ### Suburb Price
-Query Suburb avg. prices for selected CouncilAreas filtered by Year and Month 
+Query Suburb avg. prices for selected CouncilAreas filtered by Year and Month
+Pivot Column chart with Avg price and Suburbs
 ![](https://github.com/Shruti-Nagar/pictures/blob/main/Melbourne%20Auction/Suburb%20Prices.jpg)
 
 ### Clearance Rates
 Find out the total % of properties cleared from the total listings
+Created Guage Chart using donut chart to show Clearance Rates.
 ![](https://github.com/Shruti-Nagar/pictures/blob/main/Melbourne%20Auction/Clearance%20Rates.jpg)
 
 ## Tableau Dashboard

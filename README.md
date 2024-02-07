@@ -8,7 +8,7 @@
 
 ## [MedCo Invoice Report & Analysis](https://github.com/Shruti-Nagar/Excel_Portfolio/tree/main/MedsCo-Invoice-Report)
   - Data Cleaning
-  - Text Functions(TRIM, CLEAN, FIND, SUBSTITUTE, UNICODE, UNICHAR, LEFT, RIGHT, MID, PROPER, VALUE, TEXT)
+  - Text Functions(TRIM, CLEAN, FIND, SUBSTITUTE, UNICODE, UNICHAR, LEFT, RIGHT, MID, PROPER, VALUE, TEXT, LEN)
   - Aggregate Functions(CONCATENATE, SUM, COUNTIF, COUNTIFS, SUMIFS, AVERAGE)
   - Logical Functions(IF, AND, OR, IFERROR)
   - LookUp Functions(VLOOKUP, ROWS)

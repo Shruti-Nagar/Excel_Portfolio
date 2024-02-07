@@ -24,7 +24,7 @@
 - Pivot Charts(Line, Column, Guage chart)
 - Sorting & Filtering
 - Data Trends
-- Data Visulization
+- Data Visualization
 
 ## [State Waste Management Report](https://github.com/Shruti-Nagar/Excel_Portfolio/tree/main/State-Waste-Management)
 - Conditional Formatting
